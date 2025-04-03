@@ -1,3 +1,0 @@
-[submodule "pytorch-summary"]
-	path = pytorch-summary
-	url = https://github.com/sksq96/pytorch-summary.git
